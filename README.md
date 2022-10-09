@@ -1,2 +1,3 @@
 # Nandan
-Hi
+Hello,
+I'm Nandan N, a tech enthusiast
