@@ -37,7 +37,8 @@ I am a Web Developer who is exploring Cloud ☁️
 </br>
 
 ![image](https://user-images.githubusercontent.com/114895869/195780697-e15d4c7d-c667-4b7a-addc-66db15cf372e.png) ![image](https://user-images.githubusercontent.com/114895869/195780754-baccb13c-b83f-41e6-a628-413215b9df23.png)
-![image](https://user-images.githubusercontent.com/114895869/195780783-9e7cd0a5-d437-45de-94f0-4522cc823e05.png)
+![image](https://user-images.githubusercontent.com/114895869/195780783-9e7cd0a5-d437-45de-94f0-4522cc823e05.png) ![image](https://user-images.githubusercontent.com/114895869/195802098-6aa0eb17-f1f2-42af-aeaf-d17de6a4c28d.png)
+
 
 
 # 🧰 Libraries and Frameworks
@@ -48,9 +49,13 @@ I am a Web Developer who is exploring Cloud ☁️
 ![image](https://user-images.githubusercontent.com/114895869/195781138-e96a6a16-05e9-4ff9-b9fb-1129de3e4cfe.png)
 ![image](https://user-images.githubusercontent.com/114895869/195781184-462a465b-b6d8-43e0-b928-089a7be06a10.png)
 ![image](https://user-images.githubusercontent.com/114895869/195781230-5923af52-8941-424c-97ad-6012948aeb3a.png)
+![image](https://user-images.githubusercontent.com/114895869/195802004-657d0394-beb5-42ef-a870-2fcff91fee47.png)
+![image](https://user-images.githubusercontent.com/114895869/195802025-65d17348-ec21-434c-9850-37e89a38b13a.png)
+![image](https://user-images.githubusercontent.com/114895869/195802053-3b2f180c-a95a-4fd1-8119-35a3f16ee829.png)
 
 
-tools
+
+# 🔧 Tools
 
 ![image](https://user-images.githubusercontent.com/114895869/195801482-65422df5-f3e4-4243-b763-951bc4a01f82.png)
 ![image](https://user-images.githubusercontent.com/114895869/195801503-7d0b2d34-9e63-4f43-8cd2-c61f35449fb6.png)
