@@ -68,8 +68,8 @@ To touch upon some of my technical competences and the subjects that I'd look fo
 # ☎️ Contact me
 
 [![image](https://user-images.githubusercontent.com/114895869/195802554-1a295b23-6f24-4850-ac63-066d9230082a.png)](https://.linkedin.com/in/nandan-n-917416225?trk=public_profile_samename-profile)
-![image](https://user-images.githubusercontent.com/114895869/195802573-812474ba-6040-4de5-99b0-3bbdaf2bf4ec.png)
-![image](https://user-images.githubusercontent.com/114895869/195802589-c7e0de4c-5080-4306-ba52-0e8e483e0fad.png)
+[![image](https://user-images.githubusercontent.com/114895869/195802573-812474ba-6040-4de5-99b0-3bbdaf2bf4ec.png)](https://github.com/NandanN2003)
+[![image](https://user-images.githubusercontent.com/114895869/195802589-c7e0de4c-5080-4306-ba52-0e8e483e0fad.png)](https://github.com/NandanN2003)
 
 
 
