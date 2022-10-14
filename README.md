@@ -1,4 +1,4 @@
-# Hello, I am Nandan ![gif](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
+# Hello, I am Nandan 👋 ![gif](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
 
 Hello,
 I'm Nandan N, a tech enthusiast 
