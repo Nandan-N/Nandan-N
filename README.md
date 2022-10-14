@@ -68,6 +68,6 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 <p align="left">
   <img src="https://media.tenor.com/mEKk_0tzrlkAAAAC/yagami-raito-yagami.gif" alt="animated" />
 </p>
-سألتني إذا كنت أصلي كل يوم ، وقلت كثيرًا
+سألتني إذا كنت أصلي كل يوم وقلت "كثيرًا".
 
 ⭐️ Inspired from [This repo](https://github.com/kautukkundan/Awesome-Profile-README-templates)
