@@ -14,17 +14,22 @@ most of my repositiories are private
 I am a Web Developer who is exploring Cloud ☁️ 
 
 
-🔭 I’m planning for a Project Vision: ML-based System for Blinds.
 
-🌱 I’m currently learning Google Cloud Platform
+
+🔭 I’m planning for a 
+
+🌱 I’m currently learning
 
 📚 I want to learn and
 
-👯 I’m looking to collaborate for a Flutter and ML-based project Doc App.
+👯 I’m looking to collaborate for
 
-🤔 I’m looking for help with Github Blog Cards.
+🤔 I’m looking for help
 
-💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+💬 Ask me about any Tech-related stuff.
+
+
+
 
 Tech & Tools Preference
 
