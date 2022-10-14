@@ -27,7 +27,9 @@ To touch upon some of my technical competences and the subjects that I'd look fo
 </br>
 
 ![image](https://user-images.githubusercontent.com/114895869/195780697-e15d4c7d-c667-4b7a-addc-66db15cf372e.png) ![image](https://user-images.githubusercontent.com/114895869/195780754-baccb13c-b83f-41e6-a628-413215b9df23.png)
-![image](https://user-images.githubusercontent.com/114895869/195780783-9e7cd0a5-d437-45de-94f0-4522cc823e05.png) ![image](https://user-images.githubusercontent.com/114895869/195802098-6aa0eb17-f1f2-42af-aeaf-d17de6a4c28d.png)
+![image](https://user-images.githubusercontent.com/114895869/195780783-9e7cd0a5-d437-45de-94f0-4522cc823e05.png) ![image](https://user-images.githubusercontent.com/114895869/195802098-6aa0eb17-f1f2-42af-aeaf-d17de6a4c28d.png) ![image](https://user-images.githubusercontent.com/114895869/195809991-1bb81477-f37e-4df0-80b5-2dcb999ce3d1.png) ![image](https://user-images.githubusercontent.com/114895869/195810225-09543d77-3f8f-41af-a38c-d9ba52100c96.png)
+
+
 
 
 
@@ -44,6 +46,9 @@ To touch upon some of my technical competences and the subjects that I'd look fo
 ![image](https://user-images.githubusercontent.com/114895869/195806247-2c071c85-9abd-425c-a1e4-5708352bd40d.png)
 ![image](https://user-images.githubusercontent.com/114895869/195806268-d9571c3e-8b4e-4526-848c-66b2fd53a37f.png)
 ![image](https://user-images.githubusercontent.com/114895869/195806287-ea919266-235a-42e3-a8ef-b8839009a21b.png)
+![image](https://user-images.githubusercontent.com/114895869/195809876-a86437f4-69be-4321-9f29-a99bbfbfb6f9.png)
+![image](https://user-images.githubusercontent.com/114895869/195809908-08412f90-099b-478a-9581-68bdf9484cd6.png)
+
 
 
 
@@ -61,6 +66,9 @@ To touch upon some of my technical competences and the subjects that I'd look fo
 ![image](https://user-images.githubusercontent.com/114895869/195805376-e399f2ef-5e36-46be-899f-e1f69805bbdf.png)
 ![image](https://user-images.githubusercontent.com/114895869/195805419-e8634869-6350-4230-95f6-ab62bf46b0a3.png)
 ![image](https://user-images.githubusercontent.com/114895869/195781230-5923af52-8941-424c-97ad-6012948aeb3a.png)
+![image](https://user-images.githubusercontent.com/114895869/195810102-da5cc455-2342-4fa1-ad01-0d2d6eb269cd.png)
+![image](https://user-images.githubusercontent.com/114895869/195810148-26f6a8d4-92cb-45a7-9715-4feca401ae6d.png)
+
 
 
 
