@@ -1,26 +1,18 @@
 # Hello, I am Nandan 👋
 Welcome to my GitHub profile :)
 
-# [[[this whole section is still under construction]]]
-
-
-most of my repositiories are private
-
-
 ![gif](https://media.tenor.com/vRQZNvzYbucAAAAC/hello-hi.gif)
 
+🔭 Exploring new tech and frameworks
 
-🔭 I’m planning on exploring
-
-🌱 I’m currently learning ukelele
+🌱 Learning ukelele
 
 📚 B.Tech in Computer Science and Engineering from PES University, Bengaluru, India
 
 📈 Machine Learning, Web development, Data Analytics and Academia
 
 
-
-To touch upon some of my technical competences and the subjects that I'd look forward to having a discussion on.....
+To touch upon some of my technical skills and the subjects that I'd look forward to having a discussion over a cup of coffee☕ on.....
 
 # 💻 Languages
 
