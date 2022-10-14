@@ -40,5 +40,13 @@ Tech & Tools Preference
 
 
 🧰 Libraries and Frameworks
+</br>
+![image](https://user-images.githubusercontent.com/114895869/195781006-30fab918-93de-4cb8-a736-8167513f5917.png) ![image](https://user-images.githubusercontent.com/114895869/195781057-fa9d414b-fa8b-4be8-a7c5-af5b1b798260.png)
+![image](https://user-images.githubusercontent.com/114895869/195781116-fa03b2eb-9f27-4747-8846-3c62e36db3f5.png)
+![image](https://user-images.githubusercontent.com/114895869/195781138-e96a6a16-05e9-4ff9-b9fb-1129de3e4cfe.png)
+![image](https://user-images.githubusercontent.com/114895869/195781184-462a465b-b6d8-43e0-b928-089a7be06a10.png)
+![image](https://user-images.githubusercontent.com/114895869/195781230-5923af52-8941-424c-97ad-6012948aeb3a.png)
+
+
 
 ☎️ Contact me
