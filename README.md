@@ -2,17 +2,16 @@
 Welcome to my GitHub profile :)
 
 
-<p>
-  <img src="https://media.tenor.com/vRQZNvzYbucAAAAC/hello-hi.gif" alt="animated" />
-</p> 
+<img align = "left" src="https://media.tenor.com/vRQZNvzYbucAAAAC/hello-hi.gif" width="300">  
 
-🔭 Exploring new tech and frameworks
+<p align="left"> 🔭 Exploring new tech and frameworks </p>
 
-🌱 Learning ukelele
+<p align="left"> 🌱 Learning ukelele </p>
 
-📚 B.Tech in Computer Science and Engineering from PES University, Bengaluru, India
+<p align="left"> 📚 B.Tech in Computer Science and Engineering from PES University, Bengaluru, India </p>
 
-📈 Machine Learning, Web development, Data Analytics and Academia
+<p align="left"> 📈 Machine Learning, Web development, Data Analytics and Academia </p>
+
 
 
 <hr/>
