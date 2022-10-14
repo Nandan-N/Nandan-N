@@ -1,6 +1,4 @@
-# Hello, I am Nandan 👋 ![gif]([
-](https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif)https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
-
+# Hello, I am Nandan 👋
 Hello,
 I'm Nandan N, a tech enthusiast 
 
@@ -35,13 +33,13 @@ I am a Web Developer who is exploring Cloud ☁️
 
 
 
-👨‍💻 Languages
+#💻 Languages
 </br>
 ![image](https://user-images.githubusercontent.com/114895869/195780697-e15d4c7d-c667-4b7a-addc-66db15cf372e.png) ![image](https://user-images.githubusercontent.com/114895869/195780754-baccb13c-b83f-41e6-a628-413215b9df23.png)
 ![image](https://user-images.githubusercontent.com/114895869/195780783-9e7cd0a5-d437-45de-94f0-4522cc823e05.png)
 
 
-🧰 Libraries and Frameworks
+#🧰 Libraries and Frameworks
 </br>
 ![image](https://user-images.githubusercontent.com/114895869/195781006-30fab918-93de-4cb8-a736-8167513f5917.png) ![image](https://user-images.githubusercontent.com/114895869/195781057-fa9d414b-fa8b-4be8-a7c5-af5b1b798260.png)
 ![image](https://user-images.githubusercontent.com/114895869/195781116-fa03b2eb-9f27-4747-8846-3c62e36db3f5.png)
@@ -51,4 +49,4 @@ I am a Web Developer who is exploring Cloud ☁️
 
 
 
-☎️ Contact me
+#☎️ Contact me
