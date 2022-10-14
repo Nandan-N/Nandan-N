@@ -28,5 +28,7 @@ I am a Web Developer who is exploring Cloud ☁️
 
 Tech & Tools Preference
 
-![image](https://user-images.githubusercontent.com/114895869/195779199-36cda3c0-f960-48b3-960c-5f36dcbe0bce.png)
+![image](https://user-images.githubusercontent.com/114895869/195779199-36cda3c0-f960-48b3-960c-5f36dcbe0bce.png) ![image](https://user-images.githubusercontent.com/114895869/195779289-80e3c007-f2c1-4f1f-ad93-e9391cf66c0b.png) ![image](https://user-images.githubusercontent.com/114895869/195779383-5cde0687-1098-4dcd-984f-d9bc8b85b0ce.png)
+
+
 
