@@ -44,32 +44,40 @@ I am a Web Developer who is exploring Cloud ☁️
 # 🧰 Libraries and Frameworks
 </br>
 
-![image](https://user-images.githubusercontent.com/114895869/195781006-30fab918-93de-4cb8-a736-8167513f5917.png) ![image](https://user-images.githubusercontent.com/114895869/195781057-fa9d414b-fa8b-4be8-a7c5-af5b1b798260.png)
+![image](https://user-images.githubusercontent.com/114895869/195802369-8d0ac5ae-c642-4cce-9ca2-b1048dc497ca.png)
+ ![image](https://user-images.githubusercontent.com/114895869/195781006-30fab918-93de-4cb8-a736-8167513f5917.png) ![image](https://user-images.githubusercontent.com/114895869/195781057-fa9d414b-fa8b-4be8-a7c5-af5b1b798260.png)
 ![image](https://user-images.githubusercontent.com/114895869/195781116-fa03b2eb-9f27-4747-8846-3c62e36db3f5.png)
 ![image](https://user-images.githubusercontent.com/114895869/195781138-e96a6a16-05e9-4ff9-b9fb-1129de3e4cfe.png)
 ![image](https://user-images.githubusercontent.com/114895869/195781184-462a465b-b6d8-43e0-b928-089a7be06a10.png)
 ![image](https://user-images.githubusercontent.com/114895869/195781230-5923af52-8941-424c-97ad-6012948aeb3a.png)
 ![image](https://user-images.githubusercontent.com/114895869/195802004-657d0394-beb5-42ef-a870-2fcff91fee47.png)
-![image](https://user-images.githubusercontent.com/114895869/195802025-65d17348-ec21-434c-9850-37e89a38b13a.png)
 ![image](https://user-images.githubusercontent.com/114895869/195802053-3b2f180c-a95a-4fd1-8119-35a3f16ee829.png)
 
 
 
 # 🔧 Tools
 
-![image](https://user-images.githubusercontent.com/114895869/195801482-65422df5-f3e4-4243-b763-951bc4a01f82.png)
 ![image](https://user-images.githubusercontent.com/114895869/195801503-7d0b2d34-9e63-4f43-8cd2-c61f35449fb6.png)
 ![image](https://user-images.githubusercontent.com/114895869/195801522-1f6ba189-9148-4205-98cc-ac86fa6f4311.png)
 ![image](https://user-images.githubusercontent.com/114895869/195801571-71288f48-4222-40cf-8dc5-f808749cfc9d.png)
 ![image](https://user-images.githubusercontent.com/114895869/195801603-1497ff8d-8384-4032-8f34-47cad3b05691.png)
 ![image](https://user-images.githubusercontent.com/114895869/195801631-91eda212-e355-4ec3-843e-e4cb302ac605.png)
 ![image](https://user-images.githubusercontent.com/114895869/195801677-044d39bc-f5d3-46dc-aa3c-535f13126e0e.png)
+![image](https://user-images.githubusercontent.com/114895869/195802684-f7e783ba-5306-4994-8f5b-4313838a67ba.png)
+![image](https://user-images.githubusercontent.com/114895869/195802754-e3ab239d-25a2-4ad2-96de-bea45f617e4a.png)
+
 
 
 
 
 # ☎️ Contact me
 
+![https://in.linkedin.com/in/nandan-n-917416225?trk=public_profile_samename-profile](https://user-images.githubusercontent.com/114895869/195802554-1a295b23-6f24-4850-ac63-066d9230082a.png)
+![image](https://user-images.githubusercontent.com/114895869/195802573-812474ba-6040-4de5-99b0-3bbdaf2bf4ec.png)
+![image](https://user-images.githubusercontent.com/114895869/195802589-c7e0de4c-5080-4306-ba52-0e8e483e0fad.png)
 
-![stats](https://camo.githubusercontent.com/)
+
+
+
+
 ⭐️ From [username](https://github.com/NandanN2003)
