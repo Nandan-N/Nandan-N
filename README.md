@@ -7,7 +7,7 @@ Welcome to my GitHub profile :)
 most of my repositiories are private
 
 
-![gif](https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif)
+![gif](https://media.tenor.com/vRQZNvzYbucAAAAC/hello-hi.gif)
 
 
 🔭 I’m planning on exploring
