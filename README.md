@@ -1,10 +1,5 @@
 # Hello, I am Nandan 👋
 Welcome to my GitHub profile :)
-To touch upon some of my technical competences and the subjects that I'd look forward to having a discussion on.....
-
-interests
-hobbies
-
 
 # this whole section is still under construction
 
@@ -13,7 +8,6 @@ most of my repositiories are private
 
 
 ![gif](https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif)
-
 
 
 
@@ -27,7 +21,7 @@ most of my repositiories are private
 
 
 
-
+To touch upon some of my technical competences and the subjects that I'd look forward to having a discussion on.....
 
 # 💻 Languages
 </br>
