@@ -1,14 +1,13 @@
 # Hello, I am Nandan 👋
 Welcome to my GitHub profile :)
 
-# this whole section is still under construction
+# [[[this whole section is still under construction]]]
 
 
 most of my repositiories are private
 
 
 ![gif](https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif)
-
 
 
 🔭 I’m planning on exploring
@@ -24,7 +23,6 @@ most of my repositiories are private
 To touch upon some of my technical competences and the subjects that I'd look forward to having a discussion on.....
 
 # 💻 Languages
-</br>
 
 ![image](https://user-images.githubusercontent.com/114895869/195780697-e15d4c7d-c667-4b7a-addc-66db15cf372e.png) ![image](https://user-images.githubusercontent.com/114895869/195780754-baccb13c-b83f-41e6-a628-413215b9df23.png)
 ![image](https://user-images.githubusercontent.com/114895869/195780783-9e7cd0a5-d437-45de-94f0-4522cc823e05.png) ![image](https://user-images.githubusercontent.com/114895869/195802098-6aa0eb17-f1f2-42af-aeaf-d17de6a4c28d.png) ![image](https://user-images.githubusercontent.com/114895869/195809991-1bb81477-f37e-4df0-80b5-2dcb999ce3d1.png) ![image](https://user-images.githubusercontent.com/114895869/195810225-09543d77-3f8f-41af-a38c-d9ba52100c96.png)
@@ -34,7 +32,6 @@ To touch upon some of my technical competences and the subjects that I'd look fo
 
 
 # 🧰 Libraries and Frameworks
-</br>
 
 ![image](https://user-images.githubusercontent.com/114895869/195802369-8d0ac5ae-c642-4cce-9ca2-b1048dc497ca.png)
 ![image](https://user-images.githubusercontent.com/114895869/195805972-14a24331-61d9-438d-a836-0a35dc81987e.png)
