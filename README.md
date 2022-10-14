@@ -1,7 +1,10 @@
 # Hello, I am Nandan 👋
 Welcome to my GitHub profile :)
 
-![gif](https://media.tenor.com/vRQZNvzYbucAAAAC/hello-hi.gif)
+
+<p>
+  <img src="https://media.tenor.com/vRQZNvzYbucAAAAC/hello-hi.gif" alt="animated" />
+</p> 
 
 🔭 Exploring new tech and frameworks
 
@@ -12,6 +15,7 @@ Welcome to my GitHub profile :)
 📈 Machine Learning, Web development, Data Analytics and Academia
 
 
+<hr/>
 To touch upon some of my technical skills and the subjects that I'd look forward to having a discussion over a cup of coffee☕ on.....
 
 # 💻 Languages
@@ -61,5 +65,9 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 [![image](https://user-images.githubusercontent.com/114895869/195802554-1a295b23-6f24-4850-ac63-066d9230082a.png)](https://.linkedin.com/in/nandan-n-917416225?trk=public_profile_samename-profile)
 [![image](https://user-images.githubusercontent.com/114895869/195802573-812474ba-6040-4de5-99b0-3bbdaf2bf4ec.png)](https://github.com/NandanN2003)
 [![image](https://user-images.githubusercontent.com/114895869/195802589-c7e0de4c-5080-4306-ba52-0e8e483e0fad.png)](authornandan1@gmail.com)
+
+<p align="left">
+  <img src="https://media.tenor.com/mEKk_0tzrlkAAAAC/yagami-raito-yagami.gif" alt="animated" />
+</p>
 
 ⭐️ Inspired from [This repo](https://github.com/kautukkundan/Awesome-Profile-README-templates)
