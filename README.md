@@ -41,11 +41,15 @@ most of my repositiories are private
 </br>
 
 ![image](https://user-images.githubusercontent.com/114895869/195802369-8d0ac5ae-c642-4cce-9ca2-b1048dc497ca.png)
-
-![image](https://user-images.githubusercontent.com/114895869/195781138-e96a6a16-05e9-4ff9-b9fb-1129de3e4cfe.png)
+![image](https://user-images.githubusercontent.com/114895869/195805972-14a24331-61d9-438d-a836-0a35dc81987e.png)
+![image](https://user-images.githubusercontent.com/114895869/195806011-9f4f0311-9a99-452e-8807-ba1f190e11f1.png)
 ![image](https://user-images.githubusercontent.com/114895869/195781230-5923af52-8941-424c-97ad-6012948aeb3a.png)
 ![image](https://user-images.githubusercontent.com/114895869/195802004-657d0394-beb5-42ef-a870-2fcff91fee47.png)
 ![image](https://user-images.githubusercontent.com/114895869/195802053-3b2f180c-a95a-4fd1-8119-35a3f16ee829.png)
+![image](https://user-images.githubusercontent.com/114895869/195806164-7f90e457-1daa-4863-b3a6-4a505d937f89.png)
+![image](https://user-images.githubusercontent.com/114895869/195806247-2c071c85-9abd-425c-a1e4-5708352bd40d.png)
+![image](https://user-images.githubusercontent.com/114895869/195806268-d9571c3e-8b4e-4526-848c-66b2fd53a37f.png)
+![image](https://user-images.githubusercontent.com/114895869/195806287-ea919266-235a-42e3-a8ef-b8839009a21b.png)
 
 
 
@@ -62,6 +66,7 @@ most of my repositiories are private
 ![image](https://user-images.githubusercontent.com/114895869/195781184-462a465b-b6d8-43e0-b928-089a7be06a10.png)
 ![image](https://user-images.githubusercontent.com/114895869/195805376-e399f2ef-5e36-46be-899f-e1f69805bbdf.png)
 ![image](https://user-images.githubusercontent.com/114895869/195805419-e8634869-6350-4230-95f6-ab62bf46b0a3.png)
+![image](https://user-images.githubusercontent.com/114895869/195781230-5923af52-8941-424c-97ad-6012948aeb3a.png)
 
 
 
