@@ -1,6 +1,6 @@
 # Hello, I am Nandan 👋
-Hello,
-I'm Nandan N, a tech enthusiast 
+Welcome to my GitHub profile :)
+To touch upon some of my technical competences and the subjects that I'd look forward to having a discussion on.....
 
 interests
 hobbies
@@ -12,22 +12,18 @@ hobbies
 most of my repositiories are private
 
 
-I am a Web Developer who is exploring Cloud ☁️ 
-
 ![gif](https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif)
 
 
 
 
-🔭 I’m planning for 
+🔭 I’m planning on exploring
 
-🌱 I’m currently learning 
-
-💬 
+🌱 I’m currently learning ukelele
 
 📚 B.Tech in Computer Science and Engineering from PES University, Bengaluru, India
 
-📈 Machine Learning, Deep Learning, Data Analytics and Natural Language Processing
+📈 Machine Learning, Web development, Data Analytics and Academia
 
 
 
@@ -43,7 +39,6 @@ I am a Web Developer who is exploring Cloud ☁️
 
 # 🧰 Libraries and Frameworks
 </br>
-
 ![image](https://user-images.githubusercontent.com/114895869/195802369-8d0ac5ae-c642-4cce-9ca2-b1048dc497ca.png)
  ![image](https://user-images.githubusercontent.com/114895869/195781006-30fab918-93de-4cb8-a736-8167513f5917.png) ![image](https://user-images.githubusercontent.com/114895869/195781057-fa9d414b-fa8b-4be8-a7c5-af5b1b798260.png)
 ![image](https://user-images.githubusercontent.com/114895869/195781116-fa03b2eb-9f27-4747-8846-3c62e36db3f5.png)
