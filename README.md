@@ -35,14 +35,12 @@ Tech & Tools Preference
 ![image](https://user-images.githubusercontent.com/114895869/195779199-36cda3c0-f960-48b3-960c-5f36dcbe0bce.png) ![image](https://user-images.githubusercontent.com/114895869/195779289-80e3c007-f2c1-4f1f-ad93-e9391cf66c0b.png) ![image](https://user-images.githubusercontent.com/114895869/195779383-5cde0687-1098-4dcd-984f-d9bc8b85b0ce.png)
 
 👨‍💻 Languages
-<hr>
 </br>
 ![image](https://user-images.githubusercontent.com/114895869/195780697-e15d4c7d-c667-4b7a-addc-66db15cf372e.png) ![image](https://user-images.githubusercontent.com/114895869/195780754-baccb13c-b83f-41e6-a628-413215b9df23.png)
 ![image](https://user-images.githubusercontent.com/114895869/195780783-9e7cd0a5-d437-45de-94f0-4522cc823e05.png)
 
 
 🧰 Libraries and Frameworks
-<hr>
 </br>
 ![image](https://user-images.githubusercontent.com/114895869/195781006-30fab918-93de-4cb8-a736-8167513f5917.png) ![image](https://user-images.githubusercontent.com/114895869/195781057-fa9d414b-fa8b-4be8-a7c5-af5b1b798260.png)
 ![image](https://user-images.githubusercontent.com/114895869/195781116-fa03b2eb-9f27-4747-8846-3c62e36db3f5.png)
