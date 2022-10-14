@@ -36,7 +36,6 @@ To touch upon some of my technical competences and the subjects that I'd look fo
 ![image](https://user-images.githubusercontent.com/114895869/195802369-8d0ac5ae-c642-4cce-9ca2-b1048dc497ca.png)
 ![image](https://user-images.githubusercontent.com/114895869/195805972-14a24331-61d9-438d-a836-0a35dc81987e.png)
 ![image](https://user-images.githubusercontent.com/114895869/195806011-9f4f0311-9a99-452e-8807-ba1f190e11f1.png)
-![image](https://user-images.githubusercontent.com/114895869/195781230-5923af52-8941-424c-97ad-6012948aeb3a.png)
 ![image](https://user-images.githubusercontent.com/114895869/195802004-657d0394-beb5-42ef-a870-2fcff91fee47.png)
 ![image](https://user-images.githubusercontent.com/114895869/195802053-3b2f180c-a95a-4fd1-8119-35a3f16ee829.png)
 ![image](https://user-images.githubusercontent.com/114895869/195806164-7f90e457-1daa-4863-b3a6-4a505d937f89.png)
@@ -45,8 +44,6 @@ To touch upon some of my technical competences and the subjects that I'd look fo
 ![image](https://user-images.githubusercontent.com/114895869/195806287-ea919266-235a-42e3-a8ef-b8839009a21b.png)
 ![image](https://user-images.githubusercontent.com/114895869/195809876-a86437f4-69be-4321-9f29-a99bbfbfb6f9.png)
 ![image](https://user-images.githubusercontent.com/114895869/195809908-08412f90-099b-478a-9581-68bdf9484cd6.png)
-
-
 
 
 # 🔧 Tools
@@ -65,9 +62,7 @@ To touch upon some of my technical competences and the subjects that I'd look fo
 ![image](https://user-images.githubusercontent.com/114895869/195781230-5923af52-8941-424c-97ad-6012948aeb3a.png)
 ![image](https://user-images.githubusercontent.com/114895869/195810102-da5cc455-2342-4fa1-ad01-0d2d6eb269cd.png)
 ![image](https://user-images.githubusercontent.com/114895869/195810148-26f6a8d4-92cb-45a7-9715-4feca401ae6d.png)
-
-
-
+![image](https://user-images.githubusercontent.com/114895869/195781230-5923af52-8941-424c-97ad-6012948aeb3a.png)
 
 
 # ☎️ Contact me
@@ -76,8 +71,4 @@ To touch upon some of my technical competences and the subjects that I'd look fo
 [![image](https://user-images.githubusercontent.com/114895869/195802573-812474ba-6040-4de5-99b0-3bbdaf2bf4ec.png)](https://github.com/NandanN2003)
 [![image](https://user-images.githubusercontent.com/114895869/195802589-c7e0de4c-5080-4306-ba52-0e8e483e0fad.png)](authornandan1@gmail.com)
 
-
-
-
-
-⭐️ From [Nandan](https://github.com/NandanN2003)
+⭐️ Inspired from [This repo](https://github.com/kautukkundan/Awesome-Profile-README-templates)
