@@ -38,6 +38,7 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 ![image](https://user-images.githubusercontent.com/114895869/195806287-ea919266-235a-42e3-a8ef-b8839009a21b.png)
 ![image](https://user-images.githubusercontent.com/114895869/195809876-a86437f4-69be-4321-9f29-a99bbfbfb6f9.png)
 ![image](https://user-images.githubusercontent.com/114895869/195809908-08412f90-099b-478a-9581-68bdf9484cd6.png)
+![GIS](https://img.shields.io/badge/GIS-%23white.svg?style=for-the-badge&logo=qgis&logoColor=white)
 
 
 # 🔧 Tools
@@ -57,6 +58,8 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 ![image](https://user-images.githubusercontent.com/114895869/195810102-da5cc455-2342-4fa1-ad01-0d2d6eb269cd.png)
 ![image](https://user-images.githubusercontent.com/114895869/195810148-26f6a8d4-92cb-45a7-9715-4feca401ae6d.png)
 ![image](https://user-images.githubusercontent.com/114895869/195854369-ebe28900-a566-4163-aa9a-9b69e22a8d89.png)
+![QGIS](https://img.shields.io/badge/QGIS-%23white.svg?style=for-the-badge&logo=qgis&logoColor=white)
+
 
 
 # ☎️ Contact me
