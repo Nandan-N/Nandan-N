@@ -1,8 +1,8 @@
 # Hello, I am Nandan 👋
 Welcome to my GitHub profile :)
 
+<img align = "left" src="https://user-images.githubusercontent.com/114895869/196028513-2e502212-358f-4681-8bfb-e26e5dffbb8f.png" width="300">
 
-<img align = "left" src="https://media.tenor.com/vRQZNvzYbucAAAAC/hello-hi.gif" width="300">  
 
 <p align="left"> 🔭 Exploring new tech and frameworks </p>
 
