@@ -86,6 +86,6 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 </p>
 سألتني إذا كنت أصلي كل يوم وقلت "كثيرًا".
 
-⭐️ Inspired from [This repo](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+⭐️ Inspired from [This repo](https://github.com/kautukkundan/Awesome-Profile-README-templates)   <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithya-s-k&label=Profile%20views&color=0e75b6&style=flat" alt="adithya-s-k" /> </p>
 
 # My Repos ⬇️
