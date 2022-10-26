@@ -20,7 +20,7 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 # 💻 Languages
 
 ![image](https://user-images.githubusercontent.com/114895869/195780697-e15d4c7d-c667-4b7a-addc-66db15cf372e.png) ![image](https://user-images.githubusercontent.com/114895869/195780754-baccb13c-b83f-41e6-a628-413215b9df23.png)
-![image](https://user-images.githubusercontent.com/114895869/195780783-9e7cd0a5-d437-45de-94f0-4522cc823e05.png) ![image](https://user-images.githubusercontent.com/114895869/195809991-1bb81477-f37e-4df0-80b5-2dcb999ce3d1.png) ![image](https://user-images.githubusercontent.com/114895869/195810225-09543d77-3f8f-41af-a38c-d9ba52100c96.png) <a href=""><img alt="" src="https://img.shields.io/badge/Matlab-0790C0?style=for-the-badge&logo=octave&logoColor=white" /></a> ![image](https://user-images.githubusercontent.com/114895869/195802098-6aa0eb17-f1f2-42af-aeaf-d17de6a4c28d.png)
+![image](https://user-images.githubusercontent.com/114895869/195780783-9e7cd0a5-d437-45de-94f0-4522cc823e05.png) ![image](https://user-images.githubusercontent.com/114895869/195810225-09543d77-3f8f-41af-a38c-d9ba52100c96.png) <a href=""><img alt="" src="https://img.shields.io/badge/Matlab-0790C0?style=for-the-badge&logo=octave&logoColor=white" /></a> ![image](https://user-images.githubusercontent.com/114895869/195802098-6aa0eb17-f1f2-42af-aeaf-d17de6a4c28d.png)
 
 
 
@@ -39,7 +39,6 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 ![image](https://user-images.githubusercontent.com/114895869/195809876-a86437f4-69be-4321-9f29-a99bbfbfb6f9.png)
 ![image](https://user-images.githubusercontent.com/114895869/195809908-08412f90-099b-478a-9581-68bdf9484cd6.png)
 ![GIS](https://img.shields.io/badge/GIS-%23white.svg?style=for-the-badge&logo=qgis&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -57,6 +56,7 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 ![image](https://user-images.githubusercontent.com/114895869/195801631-91eda212-e355-4ec3-843e-e4cb302ac605.png)
 ![image](https://user-images.githubusercontent.com/114895869/195801677-044d39bc-f5d3-46dc-aa3c-535f13126e0e.png)
 ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![image](https://user-images.githubusercontent.com/114895869/195802684-f7e783ba-5306-4994-8f5b-4313838a67ba.png)
 ![image](https://user-images.githubusercontent.com/114895869/195802754-e3ab239d-25a2-4ad2-96de-bea45f617e4a.png)
 ![image](https://user-images.githubusercontent.com/114895869/195781184-462a465b-b6d8-43e0-b928-089a7be06a10.png)
@@ -66,6 +66,7 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 ![image](https://user-images.githubusercontent.com/114895869/195810102-da5cc455-2342-4fa1-ad01-0d2d6eb269cd.png)
 ![image](https://user-images.githubusercontent.com/114895869/195810148-26f6a8d4-92cb-45a7-9715-4feca401ae6d.png)
 ![image](https://user-images.githubusercontent.com/114895869/195854369-ebe28900-a566-4163-aa9a-9b69e22a8d89.png)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-%23white.svg?style=for-the-badge&logo=qgis&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
