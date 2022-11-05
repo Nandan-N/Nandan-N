@@ -31,7 +31,6 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 ![image](https://user-images.githubusercontent.com/114895869/195802369-8d0ac5ae-c642-4cce-9ca2-b1048dc497ca.png)
 ![image](https://user-images.githubusercontent.com/114895869/195805972-14a24331-61d9-438d-a836-0a35dc81987e.png)
 ![image](https://user-images.githubusercontent.com/114895869/195802004-657d0394-beb5-42ef-a870-2fcff91fee47.png)
-![image](https://user-images.githubusercontent.com/114895869/195802053-3b2f180c-a95a-4fd1-8119-35a3f16ee829.png)
 ![image](https://user-images.githubusercontent.com/114895869/195806164-7f90e457-1daa-4863-b3a6-4a505d937f89.png)
 ![image](https://user-images.githubusercontent.com/114895869/195806247-2c071c85-9abd-425c-a1e4-5708352bd40d.png)
 ![image](https://user-images.githubusercontent.com/114895869/195806268-d9571c3e-8b4e-4526-848c-66b2fd53a37f.png)
