@@ -52,12 +52,10 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 ![image](https://user-images.githubusercontent.com/114895869/195801503-7d0b2d34-9e63-4f43-8cd2-c61f35449fb6.png)
 ![image](https://user-images.githubusercontent.com/114895869/195801522-1f6ba189-9148-4205-98cc-ac86fa6f4311.png)
 ![image](https://user-images.githubusercontent.com/114895869/195801571-71288f48-4222-40cf-8dc5-f808749cfc9d.png)
-![image](https://user-images.githubusercontent.com/114895869/195801603-1497ff8d-8384-4032-8f34-47cad3b05691.png)
 ![image](https://user-images.githubusercontent.com/114895869/195801631-91eda212-e355-4ec3-843e-e4cb302ac605.png)
 ![image](https://user-images.githubusercontent.com/114895869/195801677-044d39bc-f5d3-46dc-aa3c-535f13126e0e.png)
 ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![image](https://user-images.githubusercontent.com/114895869/195802684-f7e783ba-5306-4994-8f5b-4313838a67ba.png)
 ![image](https://user-images.githubusercontent.com/114895869/195802754-e3ab239d-25a2-4ad2-96de-bea45f617e4a.png)
 ![image](https://user-images.githubusercontent.com/114895869/195781184-462a465b-b6d8-43e0-b928-089a7be06a10.png)
 ![image](https://user-images.githubusercontent.com/114895869/195805376-e399f2ef-5e36-46be-899f-e1f69805bbdf.png)
@@ -65,12 +63,10 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 ![image](https://user-images.githubusercontent.com/114895869/195781230-5923af52-8941-424c-97ad-6012948aeb3a.png)
 ![image](https://user-images.githubusercontent.com/114895869/195810102-da5cc455-2342-4fa1-ad01-0d2d6eb269cd.png)
 ![image](https://user-images.githubusercontent.com/114895869/195810148-26f6a8d4-92cb-45a7-9715-4feca401ae6d.png)
-![image](https://user-images.githubusercontent.com/114895869/195854369-ebe28900-a566-4163-aa9a-9b69e22a8d89.png)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-%23white.svg?style=for-the-badge&logo=qgis&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
 # ☎️ Contact me
