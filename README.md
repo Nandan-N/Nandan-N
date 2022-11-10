@@ -86,7 +86,10 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 <p align="left">
   <img src="https://media.tenor.com/mEKk_0tzrlkAAAAC/yagami-raito-yagami.gif" alt="animated" />
 </p>
+
 سألتني إذا كنت أصلي كل يوم وقلت "كثيرًا".
+捧げよ！ 心臓を捧げよ！
+進むべき未来を その手で切り拓け
 
 ⭐️ Inspired from [This repo](https://github.com/kautukkundan/Awesome-Profile-README-templates)   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nandan-N&label=Profile%20views&color=0e75b6&style=flat" alt="Nandan-N" /> </p>
 
