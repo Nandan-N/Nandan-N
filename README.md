@@ -82,8 +82,6 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 # 🏆 GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Nandan-N&count_private=true&theme=tokyonight&showicons=true)]()
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandan-N&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 
 <p align="left">
   <img src="https://media.tenor.com/mEKk_0tzrlkAAAAC/yagami-raito-yagami.gif" alt="animated" />
