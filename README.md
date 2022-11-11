@@ -20,7 +20,8 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 # 💻 Languages
 
 ![image](https://user-images.githubusercontent.com/114895869/195780697-e15d4c7d-c667-4b7a-addc-66db15cf372e.png) ![image](https://user-images.githubusercontent.com/114895869/195780754-baccb13c-b83f-41e6-a628-413215b9df23.png)
-![image](https://user-images.githubusercontent.com/114895869/195780783-9e7cd0a5-d437-45de-94f0-4522cc823e05.png) ![image](https://user-images.githubusercontent.com/114895869/195810225-09543d77-3f8f-41af-a38c-d9ba52100c96.png) <a href=""><img alt="" src="https://img.shields.io/badge/Matlab-0790C0?style=for-the-badge&logo=octave&logoColor=white" /></a> ![image](https://user-images.githubusercontent.com/114895869/195802098-6aa0eb17-f1f2-42af-aeaf-d17de6a4c28d.png)
+![image](https://user-images.githubusercontent.com/114895869/195780783-9e7cd0a5-d437-45de-94f0-4522cc823e05.png) ![image](https://user-images.githubusercontent.com/114895869/195810225-09543d77-3f8f-41af-a38c-d9ba52100c96.png) <a href=""><img alt="" src="https://img.shields.io/badge/Matlab-0790C0?style=for-the-badge&logo=octave&logoColor=white" /></a> ![image](https://user-images.githubusercontent.com/114895869/195802098-6aa0eb17-f1f2-42af-aeaf-d17de6a4c28d.png) <a href=""><img alt="" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a> 
+![mark](https://img.shields.io/badge/Markdown-%99white.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 
