@@ -1,5 +1,5 @@
 # Hello, I am Nandan 👋
-Welcome to my GitHub profile :) 功夫
+<p> Welcome to my GitHub profile :) 功夫 <img src="https://komarev.com/ghpvc/?username=Nandan-N&label=Profile%20views&color=0e75b6&style=flat" alt="Nandan-N" /> </p>
 
 <img align = "left" src="https://media.tenor.com/vRQZNvzYbucAAAAC/hello-hi.gif" width="300">
 
@@ -93,7 +93,6 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 捧げよ！ 心臓を捧げよ！
 進むべき未来を その手で切り拓け
 
-⭐️ Inspired from [This repo](https://github.com/kautukkundan/Awesome-Profile-README-templates)   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nandan-N&label=Profile%20views&color=0e75b6&style=flat" alt="Nandan-N" /> </p>
-
+⭐️ Inspired from [This repo](https://github.com/kautukkundan/Awesome-Profile-README-templates) 
 
 # My Repos ⬇️
