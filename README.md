@@ -41,7 +41,7 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 ![GIS](https://img.shields.io/badge/GIS-%23white.svg?style=for-the-badge&logo=qgis&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<a href=""><img alt="" src="https://img.shields.io/badge/Matplotlib-F7931E?style=for-the-badge&logo=Matplotlib&logoColor=white" /></a>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
