@@ -1,5 +1,5 @@
 # Hello, I am Nandan 👋
-<p> Welcome to my GitHub profile :) 功夫 <img src="https://komarev.com/ghpvc/?username=Nandan-N&label=Profile%20views&color=0e75b6&style=flat" alt="Nandan-N" /> </p>
+<p> Welcome to my GitHub profile :) <img src="https://komarev.com/ghpvc/?username=Nandan-N&label=Profile%20views&color=0e75b6&style=flat" alt="Nandan-N" /> </p>
 
 <img align = "left" src="https://media.tenor.com/vRQZNvzYbucAAAAC/hello-hi.gif" width="300">
 
