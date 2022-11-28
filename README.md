@@ -37,7 +37,6 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 ![image](https://user-images.githubusercontent.com/114895869/195806268-d9571c3e-8b4e-4526-848c-66b2fd53a37f.png)
 ![image](https://user-images.githubusercontent.com/114895869/195806287-ea919266-235a-42e3-a8ef-b8839009a21b.png)
 ![image](https://user-images.githubusercontent.com/114895869/195809876-a86437f4-69be-4321-9f29-a99bbfbfb6f9.png)
-![image](https://user-images.githubusercontent.com/114895869/195809908-08412f90-099b-478a-9581-68bdf9484cd6.png)
 ![GIS](https://img.shields.io/badge/GIS-%23white.svg?style=for-the-badge&logo=qgis&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
@@ -88,7 +87,7 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 </p>
 
 
-捧げよ！ 心臓を捧げよ！
+捧げよ！ 心臓を捧げよ！\
 進むべき未来を その手で切り拓け
 
 ⭐️ Inspired from [This repo](https://github.com/kautukkundan/Awesome-Profile-README-templates) 
