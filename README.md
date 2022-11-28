@@ -1,5 +1,5 @@
 # Hello, I am Nandan 👋
-<p> Welcome to my GitHub profile :) <img src="https://komarev.com/ghpvc/?username=Nandan-N&label=Profile%20views&color=0e75b6&style=flat" alt="Nandan-N" /> </p>
+<p> Welcome to my GitHub profile :) <img align = "right" src="https://komarev.com/ghpvc/?username=Nandan-N&label=Profile%20views&color=0e75b6&style=flat" alt="Nandan-N" /> </p>
 
 <img align = "left" src="https://media.tenor.com/vRQZNvzYbucAAAAC/hello-hi.gif" width="300">
 
@@ -69,8 +69,6 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 ![image](https://user-images.githubusercontent.com/114895869/195810148-26f6a8d4-92cb-45a7-9715-4feca401ae6d.png)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-%23white.svg?style=for-the-badge&logo=qgis&logoColor=white)
-![Mediapipe](https://img.shields.io/badge/mediapipe-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 
