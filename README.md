@@ -4,13 +4,13 @@
 <img align = "left" src="https://media.tenor.com/vRQZNvzYbucAAAAC/hello-hi.gif" width="300">
 
 
-<p align="left"> 🔭 Exploring new tech and frameworks </p>
+<p align="middle"> 🔭 Exploring new tech and frameworks </p>
 
-<p align="left"> 🌱 Learning ukelele </p>
+<p align="middle"> 🌱 Learning ukelele </p>
 
-<p align="left"> 📚 B.Tech in Computer Science and Engineering from PES University, Bengaluru, India </p>
+<p align="middle"> 📚 B.Tech in Computer Science and Engineering from PES University, Bengaluru, India </p>
 
-<p align="left"> 📈 Machine Learning, Web development, Data Analytics and Academia </p>
+<p align="middle"> 📈 Machine Learning, Web development, Data Analytics and Academia </p>
 
 
 
