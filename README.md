@@ -10,7 +10,7 @@
 
 <p align="middle"> 📚 B.Tech in Computer Science and Engineering from PES University, Bengaluru, India </p>
 
-<p align="middle"> 📈 Machine Learning, Web development, Data Analytics and Academia </p>
+<p align="middle"> 📈 Machine Learning, NLP, Data Analytics and Academia </p>
 
 
 
