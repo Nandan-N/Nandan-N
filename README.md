@@ -10,7 +10,7 @@
 
 <p align="middle"> 📚 B.Tech in Computer Science and Engineering from PES University, Bengaluru, India </p>
 
-<p align="middle"> 📈 Machine Learning, NLP, Data Analytics and Academia </p>
+<p align="middle"> 📈 Totally into computers, all day, every day </p>
 
 
 
@@ -80,7 +80,7 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 
 # 🏆 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Nandan-N&count_private=true&theme=tokyonight&showicons=true)]()
+<img height=200 alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Nandan-N&theme=vision-friendly-dark&show_icons=true&rank_icon=github" />
 
 <p align="left">
   <img src="https://media.tenor.com/mEKk_0tzrlkAAAAC/yagami-raito-yagami.gif" alt="animated" />
